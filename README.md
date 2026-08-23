@@ -18,7 +18,7 @@
 ---
 
 # 💫 About Me:
-🔭 I'm currently working on<br>Backend Developer & IT Monitoring Operations Engineer @ Forvia Global HQ<br>👯 I'm looking to collaborate on<br>API Integrations · Data Engineering · DevOps<br>🤝 I'm looking for help with<br>Azure Databricks at scale · Confluent/Kafka architecture<br>🌱 I'm currently learning<br>Azure Databricks · Confluent/Kafka · Kubernetes<br>💬 Ask me about<br>Node.js REST APIs · RAG (FAISS + LangChain + BERT) · SAP BTP · OWASP API Top 10 · scikit-learn anomaly detection · IBM Tivoli monitoring<br>⚡ Fun fact<br>Diagnosed a Sequelize crash from an OUTPUT clause on an AES column and a race condition creating duplicate medical records — before finishing my degree
+🔭 I'm currently working on<br>Shipping production backend @ Forvia Global HQ — REST APIs, system integrations, and IT ops across a global automotive network. If it connects systems or moves data, I'm probably involved.<br>🤝 I'm looking for help with<br>Kafka at real scale · squeezing Databricks beyond what the cert covers<br>🌱 I'm currently learning<br>Azure Databricks · Confluent/Kafka · Kubernetes — going deep into Data Engineering & DevOps<br>💬 Ask me about<br>REST API design · RAG systems (FAISS + LangChain + BERT) · SAP BTP · OWASP API Top 10 · how to keep a production system alive when it really doesn't want to be
 
 
 ## 🌐 Socials:
