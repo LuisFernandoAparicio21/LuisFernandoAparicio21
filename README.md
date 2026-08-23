@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=500&height=45&lines=Backend+Developer+%C2%B7+DevOps+%C2%B7+Data+Engineering;AI+%26+RAG+Engineer;Integration+Engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=650&height=45&lines=Backend+Developer+%C2%B7+DevOps+%C2%B7+Data+Engineering;AI+%26+RAG+Engineer;Integration+Engineer" /></a>
 </p>
 
 <p align="center">
