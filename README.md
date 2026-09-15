@@ -1,11 +1,12 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A0A0A,30:3D0008,65:8E0710,100:F20D18&reversal=true />
-</div>
 
-<h3 align="center">
-  Hi, I'm Luis Fernando Aparicio
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" width="100%" alt="profile.sh --live">
+</picture>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=650&height=45&lines=Backend+Developer+%C2%B7+DevOps+%C2%B7+Data+Engineering;AI+%26+RAG+Engineer;Integration+Engineer" /></a>
